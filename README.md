@@ -7,6 +7,7 @@ Identificar a los operadores menos eficientes En la industria del Call Center lo
 
 <h3>Objetivo</h3>
 Identificar a operadores ineficientes, basado en 3 comportamientos.
+
 - Si tiene un numero de llamadas salienten reducido
 - Si tiene un numero de llamadas perdidas 
 - Si el tiempo de espera en contestar las llamadas es prolongado. 
